@@ -2,7 +2,11 @@
 
 You can use the [editor on GitHub](https://github.com/bitshareproject/bitshareproject/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bitshare is an extension of the bitcoin protocol. Its main purpose is to facilitate the exchange of equity or part ownership in a public company in relation to the purchase of products or services from a listed company. The bitshare can be traded on an exchange like other regular equities. Bitshares unlike conventional shares are designed more for early stage companies trying to compete against established businesses with a significant financial advantage. 
+ 
+Bitshare allows companies to  compete by offering equity or part ownership in their company to potential customers in exchange for the purchase of products or services. All transactions made in relation to the purchase of products or services are broadcast on a P2P network.  Generally the value of the bitshare is correlated with sales, so the bitshare of a company making more sales will become more valuable over time.
+ 
+Such a model creates a financial incentive for consumers to purchase products and services from early stage companies as opposed to established ones as they have a higher expected payoff from the capital gain achieved from the bitshare offered by a growing company. Early stage companies can also offer a higher equity stake to new customers as there a fewer customers to share the equity. 
 
 ### Markdown
 
